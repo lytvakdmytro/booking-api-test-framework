@@ -1,5 +1,7 @@
 # Booking API Test Framework
 
+[![CI](https://github.com/lytvakdmytro/booking-api-test-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/lytvakdmytro/booking-api-test-framework/actions/workflows/ci.yml)
+
 API test automation framework for [Restful Booker](https://restful-booker.herokuapp.com/), built with Python, pytest and Requests.
 
 ## Setup
